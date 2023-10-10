@@ -9,6 +9,8 @@
   <url>http://maven.apache.org</url>
 
   <properties>
+  	  <maven.compiler.source>17.0.8</maven.compiler.source>
+      <maven.compiler.target>17.0.8</maven.compiler.target>	
       <build.version>1.0</build.version>
   </properties>
 
